@@ -1,0 +1,8 @@
+# Ignore raw data and videos
+*.mov
+*.h5
+*.npy
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
